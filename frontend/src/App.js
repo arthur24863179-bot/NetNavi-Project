@@ -1,0 +1,1 @@
+function App(){return (<div>NetNavi</div>);}export default App;

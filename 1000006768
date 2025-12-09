@@ -1,0 +1,4 @@
+TeamName,OffenseStyle,DefenseScheme,CoachName,IGA_Rating,AILogic,CashBalance,CurrentTotalSalary
+Lakers,ISO,Switch All,Darvin Ham,75,Contender,100M,150M
+Celtics,MOTION,Man-to-Man,Joe Mazzulla,80,Contender,90M,168M
+...,...,...,...,...,...,...,...
